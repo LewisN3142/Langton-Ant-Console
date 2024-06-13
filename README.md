@@ -1,5 +1,7 @@
 # Langton's Ant Console Application
 
+(If you like this project or were directed here by my CV, you may also be interested in my work on [The Cellular Automata Engine](https://github.com/LewisN3142/CellularAutomataEngine) with Jamie Gabbay.)
+
 This project is legacy code from when I first tried messing around with C++ to create command line applications. 
 This particular piece of code is a console application of Langton's ant, a cellular automata where an ant moves around a grid according to the colour (or number, in this case) displayed on the tile.
 As the ant leaves the tile, they change the tile's colour to a different one, creating emergent behaviour.
